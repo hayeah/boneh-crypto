@@ -1,0 +1,24 @@
+####################################
+crib = "car"
+00 pos=75 []string{"car", "euq", "yyl", "ece", "cen", "bn{", "f e", "yuh", "dno", "mon", "+o<"} 
+03 pos=79 []string{"onc", "er ", "o -", "car", "ext", "car", "ur ", " fo", "mes", "gen", " so"} 
+04 pos=04 []string{"sma", "af\"", "r(u", "naa", "car", "dgl", "e(c", "e(c", "af\"", "rat", " Km"} 
+04 pos=07 []string{"yat", "mec", "dql", "n$t", "car", ",p ", "ya ", "ya ", "xae", "jpe", "egi"} 
+05 pos=31 []string{"ng ", "h q", " no", " no", "ak ", "car", "aph", "phy", "chi", "eme", "200"} 
+05 pos=79 []string{"onc", "er ", "o -", "car", "ext", "car", "ur ", " fo", "mes", "gen", " so"} 
+####################################
+crib = "once"
+00 pos=79 []string{"once", "er 1", "o - ", "cars", "ext ", "cars", "ur l", " for", "mes ", "gene", " sol"} 
+08 pos=16 []string{"gb-x", "e'cd", "aeah", "bhxe", "rhid", "o'od", "pb~1", "pb~1", "once", " bcr", "ouiU"} 
+key: 66396e89c9dbd8cc9874352acd6395102eafce78aa7fed28a07f6bc98d29c50b69b0339a19f8aa401a9c6d708f80c066c763fef0123148cdd8e802d05ba98777335daefcecd59c433a6b268b60bf4ef03c9a61
+00 "The secret message is: When using a stream cipher, never use the key more than once"
+01 "We can factor the number 15 with quantum computers. We can also factor the number 1"
+02 "Euler would probably enjoy that now his theorem becomes a corner stone of crypto - "
+03 "The nice thing about Keeyloq is now we cryptographers can drive a lot of fancy cars"
+04 "The ciphertext produced by a weak encryption algorithm looks as good as ciphertext "
+05 "You don't want to buy a set of car keys from a guy who specializes in stealing cars"
+06 "There are two types of cryptography - that which will keep secrets safe from your l"
+07 "There are two types of cyptography: one that allows the Government to use brute for"
+08 "We can see the point where the chip is unhappy if a wrong bit is sent and consumes "
+09 "A (private-key)  encryption scheme states 3 algorithms, namely a procedure for gene"
+10 " The Concise OxfordDictionary (2006) deﬁnes crypto as the art of  writing o r sol"
